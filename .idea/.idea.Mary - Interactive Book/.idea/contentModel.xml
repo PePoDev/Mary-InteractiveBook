@@ -894,6 +894,7 @@
           </e>
         </e>
         <e p="Scripts" t="Include">
+          <e p="ColorFade.cs" t="Include" />
           <e p="HideImageOnStart.cs" t="Include" />
           <e p="OnVideoEndEvent.cs" t="Include" />
           <e p="p10.cs" t="Include" />

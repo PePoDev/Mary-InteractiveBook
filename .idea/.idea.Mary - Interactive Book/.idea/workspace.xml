@@ -2,16 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a72caae-f38b-4db9-8e34-028804da2f88" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Mary - Interactive Book/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Mary - Interactive Book/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Mary - Interactive Book/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Mary - Interactive Book/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Doozy/Editor/Nody/Settings/NodyWindowSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Doozy/Editor/Nody/Settings/NodyWindowSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Doozy/Engine/Resources/Data/UIView/UIView_Main.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Doozy/Engine/Resources/Data/UIView/UIView_Main.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Graph.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Graph.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Page1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Page1.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/page06-warning in phone/who_icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/page06-warning in phone/who_icon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/page09-momy profile/Tips_icon.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/page09-momy profile/Tips_icon.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/page09-momy profile/go_icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/page09-momy profile/go_icon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/page09-momy profile/monsterface_01.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/page09-momy profile/monsterface_01.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/page09-momy profile/monsterface_02.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/page09-momy profile/monsterface_02.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/page09-momy profile/page08_tips.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/page09-momy profile/page08_tips.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/p10.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/p10.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +36,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/HideImageOnStart.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/OnVideoEndEvent.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/p10.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ColorFade.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -47,6 +45,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/HideImageOnStart.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/OnVideoEndEvent.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/p10.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ColorFade.cs" />
       </list>
     </option>
   </component>
@@ -92,7 +91,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584940600341</updated>
-      <workItem from="1584940608563" duration="9698000" />
+      <workItem from="1584940608563" duration="14710000" />
     </task>
     <servers />
   </component>
