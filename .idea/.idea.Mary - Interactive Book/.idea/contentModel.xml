@@ -894,11 +894,13 @@
           </e>
         </e>
         <e p="Scripts" t="Include">
+          <e p="Chat.cs" t="Include" />
           <e p="ClickStart.cs" t="Include" />
           <e p="ColorFade.cs" t="Include" />
           <e p="HideImageOnStart.cs" t="Include" />
           <e p="OnVideoEndEvent.cs" t="Include" />
           <e p="p10.cs" t="Include" />
+          <e p="p17.cs" t="Include" />
           <e p="p19_1.cs" t="Include" />
           <e p="p19_2.cs" t="Include" />
           <e p="p21.cs" t="Include" />

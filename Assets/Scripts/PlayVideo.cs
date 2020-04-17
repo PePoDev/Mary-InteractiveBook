@@ -17,7 +17,12 @@ public class PlayVideo : MonoBehaviour
 		m_videoPlayer.Prepare();
 	}
 
-	private void Start()
+	// private void Start()
+	// {
+	// 	m_videoPlayer.Play();
+	// }
+
+	private void OnEnable()
 	{
 		m_videoPlayer.Play();
 	}

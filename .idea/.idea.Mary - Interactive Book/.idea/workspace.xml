@@ -2,53 +2,136 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a72caae-f38b-4db9-8e34-028804da2f88" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/Audios/The beginning.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Audios/The beginning.mp3.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Audios/alert1.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Audios/alert1.mp3.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Audios/chapter1.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Audios/chapter1.mp3.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Audios/chapter1_message_notication.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Audios/chapter1_message_notication.mp3.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Audios/chapter1_phone_ringing.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Audios/chapter1_phone_ringing.mp3.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Audios/chapter1_telephone_ringing.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Audios/chapter1_telephone_ringing.mp3.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Audios/chapter2.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Audios/chapter2.mp3.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Audios/chapter2_TV Error.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Audios/chapter2_TV Error.mp3.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Audios/chapter3.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Audios/chapter3.mp3.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Audios/door knock.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Audios/door knock.mp3.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Audios/mission2.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Audios/mission2.mp3.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Audios/mission2_click.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Audios/mission2_click.mp3.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Audios/mission2_freeze.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Audios/mission2_freeze.mp3.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Audios/mission2_takeanap.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Audios/mission2_takeanap.mp3.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Audios/mission3.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Audios/mission3.mp3.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/message (1).prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/message (1).prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/message (2).prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/message (2).prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/message (3).prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/message (3).prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/message (4).prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/message (4).prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Chat.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Chat.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/p17.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/p17.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Page17-mission1(phonecall)/message.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Page17-mission1(phonecall)/message.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Page17-mission1(phonecall)/part3_sicker1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Page17-mission1(phonecall)/part3_sicker2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Page17-mission1(phonecall)/part3_sicker3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Page17-mission1(phonecall)/part3_sicker4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Page17-mission1(phonecall)/part3_stickers.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Page17-mission1(phonecall)/part3_ปุ่มtap.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Page17-mission1(phonecall)/ปุ่ม decline และ accept.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Page17-mission1(phonecall)/ปุ่ม open.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Mary - Interactive Book/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Mary - Interactive Book/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Mary - Interactive Book/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Mary - Interactive Book/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Mary - Interactive Book/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Mary - Interactive Book/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Audios/message_notication.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Audios/17/message_notication.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Audios/message_notication.mp3.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Audios/17/message_notication.mp3.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Audios/phone_ringing.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Audios/17/phone_ringing.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Audios/phone_ringing.mp3.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Audios/17/phone_ringing.mp3.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Audios/telephone_ringing.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Audios/17/telephone_ringing.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Audios/telephone_ringing.mp3.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Audios/17/telephone_ringing.mp3.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Plugins/Doozy/Editor/Nody/Settings/NodyWindowSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Doozy/Editor/Nody/Settings/NodyWindowSettings.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Plugins/Doozy/Engine/Resources/Data/UIView/UIView_Main.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Doozy/Engine/Resources/Data/UIView/UIView_Main.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Doozy/Engine/Resources/DoozySettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Doozy/Engine/Resources/DoozySettings.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Resources/Graph.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Graph.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Main.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Main.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/page01-book cover/page01_bookcover.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/page01-book cover/page01_bookcover.mp4.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/page03-mary at the window/page03.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/page03-mary at the window/page03.mp4.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/page04-mary note/page04.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/page04-mary note/page04.mp4.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/page05-mary with phone/page05.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/page05-mary with phone/page05.mp4.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/page06-warning in phone/page06.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/page06-warning in phone/page06.mp4.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/page07-momy knocked door/page07.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/page07-momy knocked door/page07.mp4.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/page08- momy has found/page08.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/page08- momy has found/page08.mp4.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/page09-momy profile/page09.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/page09-momy profile/page09.mp4.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/page10-chapter 1 (cover)/page10.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/page10-chapter 1 (cover)/page10.mp4.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/page12-chapter 2 (cover)/page12_01.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/page12-chapter 2 (cover)/page12_01.mp4.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/page12-chapter 2 (cover)/page12_02.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/page12-chapter 2 (cover)/page12_02.mp4.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/page13-chapter 2 (living room)/page13_01_new.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/page13-chapter 2 (living room)/page13_01_new.mp4.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/page13-chapter 2 (living room)/page13_02.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/page13-chapter 2 (living room)/page13_02.mp4.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/page13-chapter 2 (living room)/page13_03.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/page13-chapter 2 (living room)/page13_03.mp4.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/page14-chapter 3 (cover)/page14_01.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/page14-chapter 3 (cover)/page14_01.mp4.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/page14-chapter 3 (cover)/page14_02.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/page14-chapter 3 (cover)/page14_02.mp4.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/page15-chapter 3 (bedroom-try it again)/page15_01.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/page15-chapter 3 (bedroom-try it again)/page15_01.mp4.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/page15-chapter 3 (bedroom-try it again)/page15_02.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/page15-chapter 3 (bedroom-try it again)/page15_02.mp4.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayVideo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PlayVideo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/p19_1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/p19_1.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/p19_2.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/p19_2.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Page17-mission1(phonecall)/vdo และ elements ต่างๆในหน้า.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Audios/17.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Page17-mission1(phonecall)/vdo และ elements ต่างๆในหน้า/background.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Page17-mission1(phonecall)/background.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Page17-mission1(phonecall)/vdo และ elements ต่างๆในหน้า/background.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Page17-mission1(phonecall)/background.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Page17-mission1(phonecall)/vdo และ elements ต่างๆในหน้า/mission_completed.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Page17-mission1(phonecall)/mission_completed.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Page17-mission1(phonecall)/vdo และ elements ต่างๆในหน้า/mission_completed.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Page17-mission1(phonecall)/mission_completed.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Page17-mission1(phonecall)/vdo และ elements ต่างๆในหน้า/next_icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Page17-mission1(phonecall)/next_icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Page17-mission1(phonecall)/vdo และ elements ต่างๆในหน้า/next_icon.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Page17-mission1(phonecall)/next_icon.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Page17-mission1(phonecall)/vdo และ elements ต่างๆในหน้า/part3_Backgroundคอม.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Page17-mission1(phonecall)/part3_Backgroundคอม.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Page17-mission1(phonecall)/vdo และ elements ต่างๆในหน้า/part3_Backgroundคอม.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Page17-mission1(phonecall)/part3_Backgroundคอม.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Page17-mission1(phonecall)/vdo และ elements ต่างๆในหน้า/part3_layerแชท.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Page17-mission1(phonecall)/part3_layerแชท.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Page17-mission1(phonecall)/vdo และ elements ต่างๆในหน้า/part3_layerแชท.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Page17-mission1(phonecall)/part3_layerแชท.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Page17-mission1(phonecall)/vdo และ elements ต่างๆในหน้า/part3_sicker1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Page17-mission1(phonecall)/vdo และ elements ต่างๆในหน้า/part3_sicker1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Page17-mission1(phonecall)/part3_sicker1.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Page17-mission1(phonecall)/vdo และ elements ต่างๆในหน้า/part3_sicker2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Page17-mission1(phonecall)/vdo และ elements ต่างๆในหน้า/part3_sicker2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Page17-mission1(phonecall)/part3_sicker2.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Page17-mission1(phonecall)/vdo และ elements ต่างๆในหน้า/part3_sicker3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Page17-mission1(phonecall)/vdo และ elements ต่างๆในหน้า/part3_sicker3.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Page17-mission1(phonecall)/part3_sicker3.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Page17-mission1(phonecall)/vdo และ elements ต่างๆในหน้า/part3_sicker4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Page17-mission1(phonecall)/vdo และ elements ต่างๆในหน้า/part3_sicker4.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Page17-mission1(phonecall)/part3_sicker4.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Page17-mission1(phonecall)/vdo และ elements ต่างๆในหน้า/part3_stickers.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Page17-mission1(phonecall)/part3_stickers.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Page17-mission1(phonecall)/vdo และ elements ต่างๆในหน้า/part3_stickers.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Page17-mission1(phonecall)/vdo และ elements ต่างๆในหน้า/part3_ปุ่มtap.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Page17-mission1(phonecall)/vdo และ elements ต่างๆในหน้า/part3_ปุ่มtap.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Page17-mission1(phonecall)/part3_ปุ่มtap.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Page17-mission1(phonecall)/vdo และ elements ต่างๆในหน้า/part3_เลือกsticker.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Page17-mission1(phonecall)/part3_เลือกsticker.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Page17-mission1(phonecall)/vdo และ elements ต่างๆในหน้า/part3_เลือกsticker.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Page17-mission1(phonecall)/part3_เลือกsticker.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Page17-mission1(phonecall)/vdo และ elements ต่างๆในหน้า/phone_01.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Page17-mission1(phonecall)/phone_01.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Page17-mission1(phonecall)/vdo และ elements ต่างๆในหน้า/phone_01.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Page17-mission1(phonecall)/phone_01.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Page17-mission1(phonecall)/vdo และ elements ต่างๆในหน้า/phone_02.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Page17-mission1(phonecall)/phone_02.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Page17-mission1(phonecall)/vdo และ elements ต่างๆในหน้า/phone_02.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Page17-mission1(phonecall)/phone_02.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Page17-mission1(phonecall)/vdo และ elements ต่างๆในหน้า/telephone.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Page17-mission1(phonecall)/telephone.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Page17-mission1(phonecall)/vdo และ elements ต่างๆในหน้า/telephone.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Page17-mission1(phonecall)/telephone.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Page17-mission1(phonecall)/vdo และ elements ต่างๆในหน้า/telephoneline_01.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Page17-mission1(phonecall)/telephoneline_01.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Page17-mission1(phonecall)/vdo และ elements ต่างๆในหน้า/telephoneline_01.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Page17-mission1(phonecall)/telephoneline_01.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Page17-mission1(phonecall)/vdo และ elements ต่างๆในหน้า/คอม.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Page17-mission1(phonecall)/คอม.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Page17-mission1(phonecall)/vdo และ elements ต่างๆในหน้า/คอม.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Page17-mission1(phonecall)/คอม.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Page17-mission1(phonecall)/vdo และ elements ต่างๆในหน้า/จดหมายที่จอคอม.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Page17-mission1(phonecall)/จดหมายที่จอคอม.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Page17-mission1(phonecall)/vdo และ elements ต่างๆในหน้า/จดหมายที่จอคอม.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Page17-mission1(phonecall)/จดหมายที่จอคอม.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Page17-mission1(phonecall)/vdo และ elements ต่างๆในหน้า/ปุ่ม decline และ accept.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Page17-mission1(phonecall)/ปุ่ม decline และ accept.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Page17-mission1(phonecall)/vdo และ elements ต่างๆในหน้า/ปุ่ม decline และ accept.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Page17-mission1(phonecall)/vdo และ elements ต่างๆในหน้า/ปุ่ม decline และ continue.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Page17-mission1(phonecall)/ปุ่ม decline และ continue.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Page17-mission1(phonecall)/vdo และ elements ต่างๆในหน้า/ปุ่ม decline และ continue.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Page17-mission1(phonecall)/ปุ่ม decline และ continue.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Page17-mission1(phonecall)/vdo และ elements ต่างๆในหน้า/ปุ่ม open.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Page17-mission1(phonecall)/vdo และ elements ต่างๆในหน้า/ปุ่ม open.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Page17-mission1(phonecall)/ปุ่ม open.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Page17-mission1(phonecall)/vdo และ elements ต่างๆในหน้า/หลังกด continue ในมือถือ.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StreamingAssets/videos/p17-phone-continue.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Page17-mission1(phonecall)/vdo และ elements ต่างๆในหน้า/หลังกด continue ในมือถือ.mp4.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StreamingAssets/videos/p17-phone-continue.mp4.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Page17-mission1(phonecall)/vdo และ elements ต่างๆในหน้า/หลังกดรับสายมือถือ.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StreamingAssets/videos/p19-phone-accept.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Page17-mission1(phonecall)/vdo และ elements ต่างๆในหน้า/หลังกดรับสายมือถือ.mp4.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StreamingAssets/videos/p19-phone-accept.mp4.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Page19-mission2(livingroom)/vdo และ elements ในหน้า/part2_2_เปิดแอร์แต่ยังหนาว.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StreamingAssets/videos/p19-idle.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Page19-mission2(livingroom)/vdo และ elements ในหน้า/part2_2_เปิดแอร์แต่ยังหนาว.mp4.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StreamingAssets/videos/p19-idle.mp4.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Page19-mission2(livingroom)/vdo และ elements ในหน้า/part4_หลังกินไอติมแล้วหนาว.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StreamingAssets/videos/p19-itim.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Page19-mission2(livingroom)/vdo และ elements ในหน้า/part4_หลังกินไอติมแล้วหนาว.mp4.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StreamingAssets/videos/p19-itim.mp4.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Page19-mission2(livingroom)/vdo และ elements ในหน้า/part5_กินชา.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StreamingAssets/videos/p19-kattle.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Page19-mission2(livingroom)/vdo และ elements ในหน้า/part5_กินชา.mp4.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StreamingAssets/videos/p19-kattle.mp4.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Page19-mission2(livingroom)/vdo และ elements ในหน้า/part6_นอน.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StreamingAssets/videos/p19-last.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Page19-mission2(livingroom)/vdo และ elements ในหน้า/part6_นอน.mp4.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StreamingAssets/videos/p19-last.mp4.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Page19-mission2(livingroom)/vdo และ elements ในหน้า/part6_ปุ่มไปห้องครัว.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Page19-mission2(livingroom)/vdo และ elements ในหน้า/part6_ปุ่มไปห้องครัว.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Page19-mission2(ข้างหลัง)ฉากห้องครัว/1_ปุ่ม open.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Page19-mission2(ข้างหลัง)ฉากห้องครัว/1_ปุ่ม open.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Page19-mission2(ข้างหลัง)ฉากห้องครัว/1_ห้องครัว.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StreamingAssets/videos/p19-5.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Page19-mission2(ข้างหลัง)ฉากห้องครัว/1_ห้องครัว.mp4.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StreamingAssets/videos/p19-5.mp4.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Page19-mission2(ข้างหลัง)ฉากห้องครัว/2_เปิดตู้เย็น.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StreamingAssets/videos/p19-6.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Page19-mission2(ข้างหลัง)ฉากห้องครัว/2_เปิดตู้เย็น.mp4.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StreamingAssets/videos/p19-6.mp4.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,13 +157,15 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/p21.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/HideImageOnStart.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/p17.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/OnVideoEndEvent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ClickStart.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/p19_1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/HideImageOnStart.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Resources/Graph.asset" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Reload.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/p10.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ClickStart.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/p19_1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Chat.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ColorFade.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayVideo.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/p19_2.cs" root0="FORCE_HIGHLIGHTING" />
@@ -93,12 +178,14 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/OnVideoEndEvent.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/p10.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ColorFade.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/PlayVideo.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ClickStart.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Reload.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/p21.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/p19_1.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayVideo.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/p19_2.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Chat.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/p17.cs" />
       </list>
     </option>
   </component>
@@ -146,6 +233,7 @@
       <updated>1584940600341</updated>
       <workItem from="1584940608563" duration="14710000" />
       <workItem from="1587048845238" duration="7627000" />
+      <workItem from="1587125491722" duration="13050000" />
     </task>
     <servers />
   </component>
@@ -172,9 +260,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1584984218298" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1584943960117">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1587140003490">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
+    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587140003490" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1584943960117" />
   </component>
 </project>

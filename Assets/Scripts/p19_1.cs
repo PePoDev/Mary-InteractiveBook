@@ -6,8 +6,8 @@ using UnityEngine.Events;
 
 public class p19_1 : MonoBehaviour
 {
+    public GameObject button;
     public RectTransform door;
-    public UnityEvent onComplete;
     
     private int m_count = 0;
 
@@ -23,7 +23,7 @@ public class p19_1 : MonoBehaviour
         IEnumerator func()
         {
             yield return new WaitForSeconds(2f);
-            onComplete.Invoke();            
+            button.SetActive(true);            
         }
     }
 
