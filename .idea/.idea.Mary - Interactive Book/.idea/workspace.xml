@@ -3,12 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="2a72caae-f38b-4db9-8e34-028804da2f88" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Mary - Interactive Book/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Mary - Interactive Book/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Doozy/Editor/Nody/Settings/NodyWindowSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Doozy/Editor/Nody/Settings/NodyWindowSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Graph.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Graph.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Main.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Main.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/p17.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/p17.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Page17-mission1(phonecall)/p17-t1.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Page17-mission1(phonecall)/p17-t1.mp4.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Page17-mission1(phonecall)/p17-t2.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Page17-mission1(phonecall)/p17-t2.mp4.meta" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,7 +109,7 @@
       <workItem from="1584940608563" duration="14710000" />
       <workItem from="1587048845238" duration="7627000" />
       <workItem from="1587125491722" duration="13057000" />
-      <workItem from="1587188839261" duration="1683000" />
+      <workItem from="1587188839261" duration="2285000" />
     </task>
     <servers />
   </component>
