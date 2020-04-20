@@ -64,9 +64,9 @@ public class p10 : MonoBehaviour
 		i = 0;
 		while (m_ringState)
 		{
-			telephone.GetComponent<RectTransform>().DORotate(new Vector3(0,0,20), .6f);
+			telephone.GetComponent<RectTransform>().DOAnchorPosX(1272, .6f);
 			yield return new WaitForSeconds(.6f);
-			telephone.GetComponent<RectTransform>().DORotate(new Vector3(0,0,-20), .6f);
+			telephone.GetComponent<RectTransform>().DOAnchorPosX(1178.6f, .6f);
 			yield return new WaitForSeconds(.6f);
 			
 			i++;
