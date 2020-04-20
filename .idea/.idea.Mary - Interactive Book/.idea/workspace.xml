@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a72caae-f38b-4db9-8e34-028804da2f88" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Mary - Interactive Book/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Mary - Interactive Book/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Mary - Interactive Book/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Mary - Interactive Book/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Audios/17.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Audios/17/message_notication.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Audios/17/message_notication.mp3.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Audios/17/phone_ringing.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Audios/17/phone_ringing.mp3.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Audios/17/telephone_ringing.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Audios/17/telephone_ringing.mp3.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Plugins/Doozy/Editor/Nody/Settings/NodyWindowSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Doozy/Editor/Nody/Settings/NodyWindowSettings.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Resources/Graph.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Graph.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Main.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Main.unity" afterDir="false" />
@@ -110,6 +118,7 @@
       <workItem from="1587048845238" duration="7627000" />
       <workItem from="1587125491722" duration="13057000" />
       <workItem from="1587188839261" duration="2285000" />
+      <workItem from="1587395385079" duration="599000" />
     </task>
     <servers />
   </component>
