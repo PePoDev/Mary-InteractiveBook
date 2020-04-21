@@ -6,10 +6,9 @@ using UnityEngine.SceneManagement;
 
 public class ClickStart : MonoBehaviour
 {
-    private IEnumerator Start()
+    private void Update()
     {
-        yield return new WaitForSeconds(2f);
-        // if (Input.anyKeyDown || Input.touchCount > 0)
+        if (Input.anyKeyDown || Input.touchCount > 0)
         {
             SceneManager.LoadScene("Main");
         }

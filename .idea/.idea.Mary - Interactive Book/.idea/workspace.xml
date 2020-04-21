@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a72caae-f38b-4db9-8e34-028804da2f88" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Doozy/Editor/Nody/Settings/NodyWindowSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Doozy/Editor/Nody/Settings/NodyWindowSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Graph.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Graph.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/p21.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/p21.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Mary - Interactive Book/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Mary - Interactive Book/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Mary - Interactive Book/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Mary - Interactive Book/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Main.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Main.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Start.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Start.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ClickStart.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ClickStart.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayVideo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PlayVideo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,17 +36,20 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/p21.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/p17.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/Main.unity" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/OnVideoEndEvent.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ClickStart.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/p19_1.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/HideImageOnStart.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Resources/Graph.asset" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/p1.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Reload.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/p10.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Chat.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ColorFade.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayVideo.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/p19_2.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Cursor.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -52,15 +58,17 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/HideImageOnStart.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/OnVideoEndEvent.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ColorFade.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/ClickStart.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Reload.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/p19_1.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/PlayVideo.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/p19_2.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Chat.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/p17.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/p10.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/p21.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/p1.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Cursor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ClickStart.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayVideo.cs" />
       </list>
     </option>
   </component>
@@ -113,6 +121,9 @@
       <workItem from="1587395385079" duration="599000" />
       <workItem from="1587409494115" duration="960000" />
       <workItem from="1587480099949" duration="22000" />
+      <workItem from="1587482758376" duration="2359000" />
+      <workItem from="1587496536434" duration="560000" />
+      <workItem from="1587497887454" duration="604000" />
     </task>
     <servers />
   </component>
