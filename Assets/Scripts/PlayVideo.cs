@@ -14,6 +14,7 @@ public class PlayVideo : MonoBehaviour
 	{
 		m_videoPlayer = GetComponent<VideoPlayer>();
 		m_videoPlayer.url = System.IO.Path.Combine (Application.streamingAssetsPath,$"videos/{filename}.mp4");
+		
 		// m_videoPlayer.Prepare();
 	}
 

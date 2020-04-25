@@ -2,13 +2,63 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a72caae-f38b-4db9-8e34-028804da2f88" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Mary - Interactive Book/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Mary - Interactive Book/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/click.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/click.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/start_page.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/start_page.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Mary - Interactive Book/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Mary - Interactive Book/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Mary - Interactive Book/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Mary - Interactive Book/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Doozy/Editor/Nody/Settings/NodyWindowSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Doozy/Editor/Nody/Settings/NodyWindowSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Doozy/Engine/Resources/Data/UIView/UIView_Main.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Doozy/Engine/Resources/Data/UIView/UIView_Main.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Graph.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Graph.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Main.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Main.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Start.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Start.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/ClickStart.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ClickStart.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayVideo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PlayVideo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects - Shortcut.lnk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StreamingAssets/videos/box.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StreamingAssets/videos/p1.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StreamingAssets/videos/p10.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StreamingAssets/videos/p12-1.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StreamingAssets/videos/p12-2.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StreamingAssets/videos/p13-1.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StreamingAssets/videos/p13-2.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StreamingAssets/videos/p13-3.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StreamingAssets/videos/p14-1.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StreamingAssets/videos/p14-2.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StreamingAssets/videos/p15-1.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StreamingAssets/videos/p15-2.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StreamingAssets/videos/p16.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StreamingAssets/videos/p17-phone-continue.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StreamingAssets/videos/p17-tele-continue.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StreamingAssets/videos/p18.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StreamingAssets/videos/p19-1.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StreamingAssets/videos/p19-2.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StreamingAssets/videos/p19-5.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StreamingAssets/videos/p19-6.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StreamingAssets/videos/p19-idle.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StreamingAssets/videos/p19-itim.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StreamingAssets/videos/p19-kattle.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StreamingAssets/videos/p19-last.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StreamingAssets/videos/p19-phone-accept.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StreamingAssets/videos/p19-tele-accept.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StreamingAssets/videos/p2.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StreamingAssets/videos/p20.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StreamingAssets/videos/p21-1.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StreamingAssets/videos/p21-2.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StreamingAssets/videos/p21-3.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StreamingAssets/videos/p21-4.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StreamingAssets/videos/p22.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StreamingAssets/videos/p3.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StreamingAssets/videos/p4.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StreamingAssets/videos/p5.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StreamingAssets/videos/p6.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StreamingAssets/videos/p7.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StreamingAssets/videos/p8.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StreamingAssets/videos/p9-note.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StreamingAssets/videos/p9.mp4" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,6 +174,8 @@
       <workItem from="1587482758376" duration="2359000" />
       <workItem from="1587496536434" duration="560000" />
       <workItem from="1587497887454" duration="604000" />
+      <workItem from="1587659629362" duration="752000" />
+      <workItem from="1587801057093" duration="819000" />
     </task>
     <servers />
   </component>

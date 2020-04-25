@@ -1,16 +1,15 @@
 ﻿using System;
 using System.Collections;
 using System.Collections.Generic;
+using GameFlow;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
 public class ClickStart : MonoBehaviour
 {
-    private void Update()
+
+    public void OnClick()
     {
-        if (Input.anyKeyDown || Input.touchCount > 0)
-        {
-            SceneManager.LoadScene("Main");
-        }
+        SceneManager.LoadScene("Main");
     }
 }
